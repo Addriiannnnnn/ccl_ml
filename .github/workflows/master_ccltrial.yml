@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CCLTrial'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8F3FFEC3EFA4DB0A0FB51E8453EB26D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_978690B081594759813E84C81754DCDC }}
